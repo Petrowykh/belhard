@@ -1,0 +1,14 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+nc: 6
+
+names: 
+  0: changan
+  1: chery
+  2: dongfang
+  3: gac
+  4: greatwall
+  5: haval
