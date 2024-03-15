@@ -35,5 +35,28 @@
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/ba3f7460-879a-4100-8d9b-7823e3868b4b)
 
 ## Аугментация ##
+Для обработки изображений использовал 
+https://roboflow.com/
 
+Процесс состоит из нескольких шагов
+1. Создание проекта
+
+![image](https://github.com/Petrowykh/belhard/assets/31277728/cd6d6afb-0b64-4093-9663-9fc12315ffdc)
+
+2. Загрузка данных
+![image](https://github.com/Petrowykh/belhard/assets/31277728/1cb9658c-85ee-4b28-98e5-7505e8edf842)
+
+3. Разбиение на train, val, test
+![image](https://github.com/Petrowykh/belhard/assets/31277728/8fbc4219-e0b4-4efd-be0f-7b096b4b635e)
+
+4. Препроцессинг
+В данном случае изменил размер 416х416
+![image](https://github.com/Petrowykh/belhard/assets/31277728/65f62832-0dd2-4510-a382-66975421e2c4)
+
+5. Аугментация
+![image](https://github.com/Petrowykh/belhard/assets/31277728/363a45bf-1c8b-464e-8e08-d840d7aa46a5)
+типы аугментации — Crop, Brightness, Exposure, Noise
+
+
+   
 
