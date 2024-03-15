@@ -161,6 +161,11 @@ Web-форма
 
 Использовал код в Python:
 
-![image](https://github.com/Petrowykh/belhard/assets/31277728/a339f765-30e3-4baa-b962-76ca5ae8da33)
+![image](https://github.com/Petrowykh/belhard/assets/31277728/159b46cb-3f89-4287-923f-400f0cb45d7e)
+
+![image](https://github.com/Petrowykh/belhard/assets/31277728/4b2614ea-72d3-444a-a4b5-e907073d20bb)
+
+![image](https://github.com/Petrowykh/belhard/assets/31277728/a901c22b-4355-425f-90ac-7431cc55dbc3)
+
 
 
