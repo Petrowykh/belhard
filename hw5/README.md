@@ -125,7 +125,9 @@ https://roboflow.com/
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/3c554e57-1b40-4561-865c-3df23f91a825)
 
 Web-форма
+
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/c6f1bf59-f37c-4266-85d7-5bba78967781)
+
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/64bc83ee-7c00-4170-b636-3fff3900494f)
 
 С мобильного по ссылке
@@ -134,14 +136,6 @@ Web-форма
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/0d30910f-1fb6-431a-b626-b4368eb3a4dc)
 
 Использовал код в Python:
->from roboflow import Roboflow
->rf = Roboflow(api_key="API_KEY")
->project = rf.workspace().project("MODEL_ENDPOINT")
->model = project.version(VERSION).model
-># infer on a local image
->print(model.predict("your_image.jpg", confidence=40, overlap=30).json())
-># visualize your prediction
-># model.predict("your_image.jpg", confidence=40, overlap=30).save("prediction.jpg")
-># infer on an image hosted elsewhere
-># print(model.predict("URL_OF_YOUR_IMAGE", hosted=True, confidence=40, overlap=30).json())
+![image](https://github.com/Petrowykh/belhard/assets/31277728/a339f765-30e3-4baa-b962-76ca5ae8da33)
+
 
