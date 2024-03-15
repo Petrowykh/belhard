@@ -56,6 +56,37 @@ https://roboflow.com/
 5. Аугментация
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/363a45bf-1c8b-464e-8e08-d840d7aa46a5)
 типы аугментации — Crop, Brightness, Exposure, Noise
+![image](https://github.com/Petrowykh/belhard/assets/31277728/5afc6f53-012e-4015-9709-b878bc9ab8d3)
+
+
+## Обучение ##
+
+Обучение модели проводилось в самой среде
+![image](https://github.com/Petrowykh/belhard/assets/31277728/63b14fa3-6491-413f-a824-b368767cfc7a)
+
+Результат тренировки модели
+![image](https://github.com/Petrowykh/belhard/assets/31277728/ee359314-f7ed-4d4d-bcdc-ce5331bbe928)
+
+## Тестирование ##
+На тестовых изображениях модель показывала хорошие результаты
+![image](https://github.com/Petrowykh/belhard/assets/31277728/e389479f-a79c-4aea-8194-1e7fd4c8fec2)
+>{
+  "predictions": [
+    {
+      "x": 376,
+      "y": 314.5,
+      "width": 92,
+      "height": 57,
+      "confidence": 0.941,
+      "class": "gac",
+      "class_id": 3,
+      "detection_id": "956adff3-8b79-461c-990e-e99c2e06e4f6"
+    }
+  ]
+}
+
+
+
 
 
    
