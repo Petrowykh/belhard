@@ -31,4 +31,9 @@
 Для каждого изображения была проставлена метка
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/37c2f588-1aff-490d-994b-75e24a60994c)
 
+Результаты возможно экспортировтаь в любые форматы
+![image](https://github.com/Petrowykh/belhard/assets/31277728/ba3f7460-879a-4100-8d9b-7823e3868b4b)
+
+## Аугментация ##
+
 
