@@ -1,5 +1,5 @@
 from roboflow import Roboflow
-rf = Roboflow(api_key="GbCdwegmbga38YI48Fl9")
+rf = Roboflow(api_key="")
 project = rf.workspace().project("car_logo_detect")
 model = project.version(1).model
 
