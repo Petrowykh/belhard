@@ -154,11 +154,13 @@ Web-форма
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/64bc83ee-7c00-4170-b636-3fff3900494f)
 
 С мобильного по ссылке
+
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/9b5484bc-234f-4915-ab29-431a2f3a863f)
 
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/0d30910f-1fb6-431a-b626-b4368eb3a4dc)
 
 Использовал код в Python:
+
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/a339f765-30e3-4baa-b962-76ca5ae8da33)
 
 
