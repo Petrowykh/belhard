@@ -85,7 +85,50 @@ https://roboflow.com/
   ]
 }
 
+Незнакомые изображения:
+![image](https://github.com/Petrowykh/belhard/assets/31277728/e483586e-daa6-4ffd-a335-23dfd1828a95)
 
+>{
+  "predictions": [
+    {
+      "x": 591,
+      "y": 481.5,
+      "width": 200,
+      "height": 47,
+      "confidence": 0.894,
+      "class": "haval",
+      "class_id": 5,
+      "detection_id": "c7aaff8a-8fa6-4ecf-b9ac-ad1de2cdaf8d"
+    }
+  ]
+}
+
+Изменение угла съемки
+![image](https://github.com/Petrowykh/belhard/assets/31277728/ffc7fb5c-85df-43b8-bc8c-5752f545e2bf)
+>{
+  "predictions": [
+    {
+      "x": 366,
+      "y": 509.5,
+      "width": 62,
+      "height": 47,
+      "confidence": 0.749,
+      "class": "gac",
+      "class_id": 3,
+      "detection_id": "19ea7903-6bbf-499a-8239-4e1d54afc8e2"
+    }
+  ]
+}
+
+## Оценка работы ##
+
+![image](https://github.com/Petrowykh/belhard/assets/31277728/3c554e57-1b40-4561-865c-3df23f91a825)
+
+Web-форма
+![image](https://github.com/Petrowykh/belhard/assets/31277728/c6f1bf59-f37c-4266-85d7-5bba78967781)
+![image](https://github.com/Petrowykh/belhard/assets/31277728/64bc83ee-7c00-4170-b636-3fff3900494f)
+
+![image](https://github.com/Petrowykh/belhard/assets/31277728/a7d90742-08f1-4834-8769-650e70313d4e)
 
 
 
