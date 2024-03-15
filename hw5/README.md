@@ -16,13 +16,19 @@
 6. Оценка работы
 
 
-# Создание датасета #
+## Создание датасета ##
   
 Использовался сайт https://auto.ru/
 
 Для 6 брендов были сделаны по 10 скриншотов разных машин
 
-# Предобработка №
+## Предобработка ##
 
 Для аннотирования был использован LabelStudio [https://github.com/HumanSignal/labelImg](https://github.com/HumanSignal/label-studio)https://github.com/HumanSignal/label-studio
+![image](https://github.com/Petrowykh/belhard/assets/31277728/55494a50-a0c3-46de-8ba4-980f1aaf0bca)
+
+
+Для каждого изображения была проставлена метка
+![image](https://github.com/Petrowykh/belhard/assets/31277728/37c2f588-1aff-490d-994b-75e24a60994c)
+
 
