@@ -69,6 +69,7 @@ https://roboflow.com/
 
 ## Тестирование ##
 На тестовых изображениях модель показывала хорошие результаты
+
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/e389479f-a79c-4aea-8194-1e7fd4c8fec2)
 >{
   "predictions": [
@@ -86,6 +87,7 @@ https://roboflow.com/
 }
 
 Незнакомые изображения:
+
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/e483586e-daa6-4ffd-a335-23dfd1828a95)
 
 >{
@@ -104,6 +106,7 @@ https://roboflow.com/
 }
 
 Изменение угла съемки
+
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/ffc7fb5c-85df-43b8-bc8c-5752f545e2bf)
 >{
   "predictions": [
