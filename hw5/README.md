@@ -22,3 +22,7 @@
 
 Для 6 брендов были сделаны по 10 скриншотов разных машин
 
+# Предобработка №
+
+Для аннотирования был использован LabelStudio [https://github.com/HumanSignal/labelImg](https://github.com/HumanSignal/label-studio)https://github.com/HumanSignal/label-studio
+
