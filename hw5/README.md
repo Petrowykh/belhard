@@ -148,7 +148,7 @@ https://roboflow.com/
 
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/3c554e57-1b40-4561-865c-3df23f91a825)
 
-Web-форма
+Web-форма ссылка https://detect.roboflow.com/?model=car_logo_detect&version=1&api_key=GbCdwegmbga38YI48Fl9
 
 ![image](https://github.com/Petrowykh/belhard/assets/31277728/c6f1bf59-f37c-4266-85d7-5bba78967781)
 
@@ -172,7 +172,7 @@ Web-форма
 # Вывод #
 
 Считаю, что цель проекта достигнута.
-Выполнены все этапы подготовки и проектирования модели
+Выполнены все этапы подготовки и проектирования модели, тестирования и реального использования.
 
 Точность модели и результаты детектирования - *на "5-"* с учетом маленького датасета
 
